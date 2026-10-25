@@ -1,2 +1,0 @@
-# VercelScratchY.github.io
-Hello
