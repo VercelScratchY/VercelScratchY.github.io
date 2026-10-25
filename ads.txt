@@ -1,0 +1,2 @@
+# Remplacez cette ligne par celle fournie par AdSense (Sites → ads.txt), par exemple :
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
